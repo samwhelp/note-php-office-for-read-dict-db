@@ -30,5 +30,5 @@ $ unzip -O Big5 'dict_concised_2014_20190411.zip'
 
 ## 腳本範例
 
-* [demo/howto-download-and-extract](demo/howto-download-and-extract)
+* [demo/howto-download-and-extract](https://github.com/samwhelp/note-php-office-for-read-dict-db/tree/gh-pages/main/demo/howto-download-and-extract)
 * demo-php-office-for-read-dict-db/bin/[asset-dict-concised.sh](https://github.com/samwhelp/demo-php-office-for-read-dict-db/blob/master/bin/asset-dict-concised.sh)
