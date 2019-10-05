@@ -8,4 +8,4 @@
 
 ## 說明
 
-* [下載來源資料](http://localhost:8080/#/howto-download-and-extract)
+* [下載來源資料](https://samwhelp.github.io/note-php-office-for-read-dict-db/main/#/howto-download-and-extract)
