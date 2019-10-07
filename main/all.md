@@ -4,7 +4,7 @@
 
 ## 步驟
 
-* [下載來源資料](howto-download-and-extract.md)
+* [下載來源資料](about-download-and-extract.md)
 
 
 ## 範例

@@ -30,4 +30,4 @@ ii  unzip                           6.0-21ubuntu1        amd64                De
 
 ## 使用案例
 
-* [下載來源資料](howto-download-and-extract.md)
+* [下載來源資料](about-download-and-extract.md)

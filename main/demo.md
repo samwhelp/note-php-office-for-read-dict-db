@@ -4,7 +4,7 @@
 
 ## 列表
 
-* [howto-download-and-extract](https://github.com/samwhelp/note-php-office-for-read-dict-db/tree/gh-pages/main/demo/howto-download-and-extract) ([說明](howto-download-and-extract.md))
+* [about-download-and-extract](https://github.com/samwhelp/note-php-office-for-read-dict-db/tree/gh-pages/main/demo/about-download-and-extract) ([說明](about-download-and-extract.md))
 
 
 
