@@ -2,8 +2,9 @@
 * 文章
 	* [索引](all.md)
 
-* 步驟
+* 概念說明
 	* [下載來源資料](about-download-and-extract.md)
+	* [來源資料結構](about-dict-db-struct.md)
 
 * 範例
 	* [列表](demo.md)
