@@ -9,7 +9,7 @@
 
 簡化做了一個資料表「[dict-db.ods](https://github.com/samwhelp/note-php-office-for-read-dict-db/blob/gh-pages/main/demo/data/dict-db.ods)」，
 
-因為要在「GitHub」上好觀看，所以轉成「[dict-db.csv](https://github.com/samwhelp/note-php-office-for-read-dict-db/blob/gh-pages/main/demo/data/dict-db.csv)」。
+因為要在「GitHub」上容易觀看，所以轉成「[dict-db.csv](https://github.com/samwhelp/note-php-office-for-read-dict-db/blob/gh-pages/main/demo/data/dict-db.csv)」。
 
 ## 資料結構
 
