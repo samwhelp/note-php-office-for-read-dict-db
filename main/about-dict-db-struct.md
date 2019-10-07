@@ -196,6 +196,12 @@ foreach ($data as $row => $cols) {
 
 > 完整範例，請參考「[demo/about-dict-db-struct-foreach/main.php](https://github.com/samwhelp/note-php-office-for-read-dict-db/blob/gh-pages/main/demo/about-dict-db-struct-foreach/main.php#L57)」。
 
+
+> 關於「PHP_EOL」，請參考「PHP/Predefined Constants/Core Predefined Constants/[PHP_EOL](https://www.php.net/manual/en/reserved.constants.php#constant.php-eol)」。
+
+
+> 關於「echo」，請參考「PHP/Function/[echo](https://www.php.net/manual/en/function.echo.php)」。
+
 ## column
 
 巡迴時，讀取欄位。
