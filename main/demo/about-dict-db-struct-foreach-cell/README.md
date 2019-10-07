@@ -63,3 +63,7 @@ Column A: 一笑置之
 Column B: ㄧ　ㄒㄧㄠˋ　ㄓˋ　ㄓ　（變）ㄧˊ　ㄒㄧㄠˋ　ㄓˋ　ㄓ
 Column C: yī xiào zhì zhī　（變）yí xiào zhì zhī
 ```
+
+## 說明
+
+* [來源資料結構/column](https://samwhelp.github.io/note-php-office-for-read-dict-db/main/#/about-dict-db-struct?id=column)

@@ -113,3 +113,7 @@ array(3) {
   string(50) "yī xiào zhì zhī　（變）yí xiào zhì zhī"
 }
 ```
+
+## 說明
+
+* [來源資料結構/foreach](https://samwhelp.github.io/note-php-office-for-read-dict-db/main/#/about-dict-db-struct?id=foreach)

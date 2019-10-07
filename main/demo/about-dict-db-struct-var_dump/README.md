@@ -105,3 +105,7 @@ array(10) {
   }
 }
 ```
+
+## 說明
+
+* [來源資料結構/var_dump](https://samwhelp.github.io/note-php-office-for-read-dict-db/main/#/about-dict-db-struct?id=var_dump)
