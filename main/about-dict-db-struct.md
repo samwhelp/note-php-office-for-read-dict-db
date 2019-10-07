@@ -7,13 +7,13 @@
 
 並且仿照「dict_concised_2014_20190411.xls」，
 
-簡化做了一個資料表「[dict-db.ods](data/dict-db.ods)」，
+簡化做了一個資料表「[dict-db.ods](https://github.com/samwhelp/note-php-office-for-read-dict-db/blob/gh-pages/main/demo/data/dict-db.ods)」，
 
-因為要在「GitHub」上好觀看，所以轉成「[dict-db.csv](data/dict-db.csv)」。
+因為要在「GitHub」上好觀看，所以轉成「[dict-db.csv](https://github.com/samwhelp/note-php-office-for-read-dict-db/blob/gh-pages/main/demo/data/dict-db.csv)」。
 
 ## 資料結構
 
-對照「[dict-db.csv](data/dict-db.csv)」這個「資料表」來觀看，
+對照「[dict-db.csv](https://github.com/samwhelp/note-php-office-for-read-dict-db/blob/gh-pages/main/demo/data/dict-db.csv)」這個「資料表」來觀看，
 
 透過「PHPOffice/PhpSpreadsheet」轉成的結構會是如下。
 
@@ -177,7 +177,7 @@ array(10) {
 }
 ```
 
-> 完整範例，請參考「[demo/about-dict-db-struct-var_dump/main.php](demo/about-dict-db-struct-var_dump/main.php)」。
+> 完整範例，請參考「[demo/about-dict-db-struct-var_dump/main.php](https://github.com/samwhelp/note-php-office-for-read-dict-db/blob/gh-pages/main/demo/about-dict-db-struct-var_dump/main.php#L57)」。
 
 > 除了「var_dump」，還有一個類似的「function」是「[print_r](https://www.php.net/manual/en/function.print-r.php)」
 
@@ -194,7 +194,7 @@ foreach ($data as $row => $cols) {
 }
 ```
 
-> 完整範例，請參考「[demo/about-dict-db-struct-foreach/main.php](demo/about-dict-db-struct-foreach/main.php)」。
+> 完整範例，請參考「[demo/about-dict-db-struct-foreach/main.php](https://github.com/samwhelp/note-php-office-for-read-dict-db/blob/gh-pages/main/demo/about-dict-db-struct-foreach/main.php#L57)」。
 
 ## column
 
@@ -211,4 +211,4 @@ foreach ($data as $row => $cols) {
 ```
 
 
-> 完整範例，請參考「[demo/about-dict-db-struct-foreach-cell/main.php](demo/about-dict-db-struct-foreach-cell/main.php)」。
+> 完整範例，請參考「[demo/about-dict-db-struct-foreach-cell/main.php](https://github.com/samwhelp/note-php-office-for-read-dict-db/blob/gh-pages/main/demo/about-dict-db-struct-foreach-cell/main.php#L57)」。
