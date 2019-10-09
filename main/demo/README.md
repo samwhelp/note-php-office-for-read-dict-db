@@ -11,7 +11,7 @@
 * [about-dict-db-struct-foreach-cell](about-dict-db-struct-foreach-cell) ([說明](https://samwhelp.github.io/note-php-office-for-read-dict-db/main/#/about-dict-db-struct?id=column))
 
 
-### 4字成語資料表
+### 四字成語資料表
 
 * [about-mb_strlen](about-mb_strlen)
 * [about-dict-db-list](about-dict-db-list)
