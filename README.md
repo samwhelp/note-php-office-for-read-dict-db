@@ -7,3 +7,8 @@
 ## 筆記列表
 
 * [主要](https://samwhelp.github.io/note-php-office-for-read-dict-db/main/#/) ([GitHub](https://github.com/samwhelp/note-php-office-for-read-dict-db/tree/gh-pages/main))
+
+
+## 範例
+
+* [列表](https://samwhelp.github.io/note-php-office-for-read-dict-db/main/#/demo) ([GitHub](https://github.com/samwhelp/note-php-office-for-read-dict-db/tree/gh-pages/main/demo))
