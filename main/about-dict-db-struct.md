@@ -72,6 +72,12 @@ $data = [
 ];
 ```
 
+關於「php array」的觀念，可以參考下面幾個說明頁面。
+
+* https://www.php.net/manual/en/language.types.array.php
+* https://www.php.net/manual/en/book.array.php
+* https://www.php.net/manual/en/function.array.php
+
 ## var_dump
 
 在「PHP」可以透過「[var_dump](https://www.php.net/manual/en/function.var-dump.php)」這個「function」，將該結構傾印出來。
