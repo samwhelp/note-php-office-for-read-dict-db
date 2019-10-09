@@ -60,3 +60,8 @@ array(5) {
   }
 }
 ```
+
+
+## 說明
+
+* 四字成語資料表/[產生四字成語資料表](https://samwhelp.github.io/note-php-office-for-read-dict-db/main/#/about-idiom-db?id=%e7%94%a2%e7%94%9f%e5%9b%9b%e5%ad%97%e6%88%90%e8%aa%9e%e8%b3%87%e6%96%99%e8%a1%a8)

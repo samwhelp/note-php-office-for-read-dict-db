@@ -23,3 +23,8 @@ $ ./main.php
 守
 一笑置之
 ```
+
+
+## 說明
+
+* 四字成語資料表/[挑選前](https://samwhelp.github.io/note-php-office-for-read-dict-db/main/#/about-idiom-db?id=%e6%8c%91%e9%81%b8%e5%89%8d)

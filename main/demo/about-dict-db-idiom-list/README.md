@@ -18,3 +18,8 @@ $ ./main.php
 置之度外
 一笑置之
 ```
+
+
+## 說明
+
+* 四字成語資料表/[直接篩選](https://samwhelp.github.io/note-php-office-for-read-dict-db/main/#/about-idiom-db?id=%e7%9b%b4%e6%8e%a5%e7%af%a9%e9%81%b8)

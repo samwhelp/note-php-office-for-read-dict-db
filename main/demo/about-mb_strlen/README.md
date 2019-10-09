@@ -18,3 +18,8 @@ $ ./main.php
 3
 1
 ```
+
+
+## 說明
+
+* 四字成語資料表/[mb_strlen](https://samwhelp.github.io/note-php-office-for-read-dict-db/main/#/about-idiom-db?id=mb_strlen)
